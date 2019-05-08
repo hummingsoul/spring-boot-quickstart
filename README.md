@@ -1,1 +1,1 @@
-# spring-boot-quickstart
+# spring-boot-template
